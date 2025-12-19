@@ -5,7 +5,7 @@ import pyperclip
 
 # ==========================================
 # SERA LA CAPA 1 DE DATOS (Data Layer)
-# Sera la encargafa de proveer los caracteres para la contraseña.
+# Sera la encargada de proveer los caracteres para la contraseña.
 # ==========================================
 class DataLayer:
     def obtener_listas_caracteres(self):
